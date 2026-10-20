@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Credenciales y resultados (datos personales)
+input/
+output/
+
+# Pruebas con imágenes y PDFs generados
+prueba*.jpeg
+prueba*.jpg
+prueba*.png
+prueba*.pdf
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/

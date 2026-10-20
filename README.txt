@@ -1,0 +1,3 @@
+Este programa es el primero que realicé como experimento, ya que en mi trabajo pasamos por un problema con la impresora y los de mantenimiento no lograban repararla, dejándonos hasta medio año sin poder realizar copias. Sin embargo, yo podía mandar a imprimir escaneando y guardando en PDF los documentos. El problema eran las INE que no podía hacerlas pasar por copias y en mi trabajo eran muy estrictos en eso.
+
+Esa es la razón del nacimiento de éste proyecto. Hoy en  día ya sirve la copiadora, sin embargo es un proyecto al que le seguiré dedicando tiempo y espero subirlo a las tiendas de aplicaciones en un futuro cercano.

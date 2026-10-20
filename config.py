@@ -1,0 +1,5 @@
+
+
+INE_ANCHO_MM = 85.60
+INE_ALTO_MM = 53.98
+DPI = 300
